@@ -1,0 +1,78 @@
+[
+    {
+        "domain": "copilot.microsoft.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "cl_dtrs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "%5B%7B%22type%22%3A%22cl_dtrs%22%2C%22value%22%3A%22KZkDk7dQyMrucJ%5Cu002BTuoFOkXq7u8NNPEOPHs47rfxF8UY%5Cu002B%2FK5TPaDe1VZY%5Cu002B%5Cu002BQtl3UDxjJ%5Cu002Bbj1iCOM1Lc4EgcqylKml1XvNk7ioysme6xxeQP5Bhdjp27tHGOBK0BPRIp3B2PjkJAcFpGAjCjyIvLNDlzFMaLcKmzXcrxO0KQ4IcFTKHX9YbRjzGJ%2FRQGIha3qv8PeBk3tEeZUPnSZ5lCQkRVUc4Ib7DUhM4oRZjAHquE3NpjfjhZiNhCfq4PKn%5Cu002Bm0zOvEhmxOkt2bfmiwSnU%5Cu002BS58RPD2%5Cu002B0tajzWxhiBYpIspbs9U2kLU%5Cu002BkZIQfHLQ4fFzQ1VHsYdjjBxqm2qtHYFZD3TSlkFRIq9gjLI3Xhb6oy01Q3airaq9g7ofM0sbQvgCkXUaCasQQqgHe%5Cu002BmOtb%2FGBtjbsXwemXCMVICKQ0ao8RFI%3D%3AE1%22%7D%5D"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1732460096,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MSCC",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "NR"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1745953704.176418,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MUID",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "081852368242667E078B42F083EE6708"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1732375506.853709,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MS0",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "73cad9d42dec480ba56d692f21d2109d"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expirationDate": 1763909706.852763,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "MC1",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "GUID=d949bbe7a0c747599132ba276735dce7&HASH=d949&LV=202306&V=4&LU=1686743184697"
+    },
+    {
+        "domain": "copilot.microsoft.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "_C_ETH",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    }
+]
